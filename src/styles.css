@@ -1,0 +1,8 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap");
+:root{
+  --bg:#0B0B19;
+  --accent:#00A3FF;
+  --gold:#F0B90B;
+}
+body{background:var(--bg);font-family:Inter,system-ui,Arial,sans-serif;color:#fff}
+button{cursor:pointer}
